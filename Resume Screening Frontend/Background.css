@@ -1,0 +1,8 @@
+.bkgrd {
+  background-image: url('/src/components/Images/pg.png');
+  background-size: 100% auto; /* Adjust the size as needed */
+  background-position: top center; /* Position the image starting from the top center */
+  height: 150vh; /* Adjust height as needed */
+  position: relative;
+  background-repeat: repeat-y; /* Repeat vertically if necessary */
+}
