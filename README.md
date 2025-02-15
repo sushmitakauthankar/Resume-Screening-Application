@@ -33,10 +33,15 @@ Workflow
 6. Result Visualization:
    - Ranked resumes displayed in a table
    - Pie chart showing resume category distribution
+  
+     ![image](https://github.com/user-attachments/assets/a3096473-7e38-4e3e-8fdc-6c03c4957b77)
+
      
 Installation & Setup
 Prerequisites
 - Python 3.8+
 - Node.js (for frontend)
 - Flask & React installed
+  
+![image](https://github.com/user-attachments/assets/17a3734f-ce28-4dc4-94c4-1813f11e14df)
 
